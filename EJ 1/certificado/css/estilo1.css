@@ -1,0 +1,8 @@
+body {
+  height: 400px;
+  background-image:url("https://virtualeduca.org/mediacenter/wp-content/uploads/2022/07/universidad-pospandemia.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background: rgba(255, 122, 89, .5);
+}
